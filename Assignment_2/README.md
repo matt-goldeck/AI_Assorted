@@ -13,12 +13,12 @@ Uninformed / Deterministic Search Methods
 Depth First Search
 Breadth First Search
 Depth Limited Search
-Uniform Cost Search (Branch and Bound)
+**Uniform Cost Search (Branch and Bound**
  
 
 Informed / Stochastic Search Methods (with heuristics)
 
-Greedy Search (Best First)
+**Greedy Search (Best First)**
 A* Search
 Hill Climbing Search (Gradient Descent)
  
